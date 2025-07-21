@@ -1,1 +1,2 @@
-# streamlit-worker-copy-2
+# streamlit-worker-base
+Repositório base para nó de processamento Streamlit Cloud
